@@ -8,7 +8,7 @@ function Main() {
         <div className="App-header">
             <header className="App-img">
                 <img className ="" src={ih} alt="ih"/>
-                <img className = "" src={menu} alt="menu" />
+                <img className = "menuu" src={menu} alt="menu" />
             </header>
             <h1 className="texto">Say Hello to ReactJS</h1>
             <h2 className="texto">You will learn how to use the most popular fronted library, and become a super Ninja developer</h2>
